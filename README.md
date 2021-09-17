@@ -4,61 +4,40 @@ This is a project about accessibility standards and how to refactor code to meet
 
 ## Getting Started
 
-This code has been edited 
+This code has been edited to meet accessibility standards that I found using google.
 
 ### Changes
 
-Font size, color and style for visibility
+Font size, color and style for visibility standards such as origional font was not standard for screen readers.
+Changing some of the div tags to section, and em for important clickable links.
+Changing the css to a simpler format so its easier to edit.
+Adding alt tags to images
 
-
-
-
-### Installing
-
-A step by step series of examples that tell you how to get a development environment running.
-
-Say what the step will be:
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
 
 
 ## Built With
 
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Font reference](https://siteimprove.com/en-us/accessibility/most-accessible-fonts/)
+* [HTML reference](https://www.w3schools.com/html/html_accessibility.asp)
+
 
 ## Deployed Link
 
-* [See Live Site](#)
+* https://github.com/Alix1713/approachingaccessibility
 
 
 ## Authors
 
-* **YOUR NAME** 
+* Alix Friedman
 
 - [Link to Portfolio Site](#)
 - [Link to Github](https://github.com/)
 - [Link to LinkedIn](https://www.linkedin.com/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
-This project is licensed under the MIT License 
+This project is licensed under the Alix's cat says MEOW liscence
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+* Thanks to our awesome class discord for having some great info!
