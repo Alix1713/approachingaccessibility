@@ -30,13 +30,11 @@ Adding alt tags to images
 
 * Alix Friedman
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
+Portfolio on next project!
 
 ## License
 
-This project is licensed under the Alix's cat says MEOW liscence
+This project is licensed under the Alix's cat says MEOW license
 
 ## Acknowledgments
 
