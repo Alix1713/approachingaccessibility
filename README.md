@@ -22,7 +22,7 @@ Adding alt tags to images
 
 
 ## Deployed Link
-
+* https://alix1713.github.io/approachingaccessibility/
 * https://github.com/Alix1713/approachingaccessibility
 
 
