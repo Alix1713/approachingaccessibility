@@ -2,6 +2,9 @@
 
 This is a project about accessibility standards and how to refactor code to meet those standards.
 
+## Code Snip
+![Site](./images/snip.png)
+
 ## Getting Started
 
 This code has been edited to meet accessibility standards that I found using google.
